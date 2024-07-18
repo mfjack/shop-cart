@@ -1,6 +1,6 @@
 "use client";
 
-import ProductItem from "../_components/product-item";
+import ProductItem from "./product-item";
 import produtos from "@/data/constants/produtos";
 
 const HomePage = () => {
